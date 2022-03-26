@@ -1,0 +1,4 @@
+name: ShowStatus
+version: '${project.version}'
+main: rilyabyss.showstatus.ShowStatus
+api-version: 1.17
